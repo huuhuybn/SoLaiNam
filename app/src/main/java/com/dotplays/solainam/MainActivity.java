@@ -20,6 +20,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 
+// nhanh cua Van
 public class MainActivity extends AppCompatActivity {
 
     private ArrayList<TinTuc> tinTucs;

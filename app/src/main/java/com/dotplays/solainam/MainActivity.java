@@ -20,6 +20,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 
+// nhanh cua Van
 public class MainActivity extends AppCompatActivity {
 
     private ArrayList<TinTuc> tinTucs;
@@ -30,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         tinTucs = new ArrayList<>();
 
+        String abc = " Hello ";
 
     }
 

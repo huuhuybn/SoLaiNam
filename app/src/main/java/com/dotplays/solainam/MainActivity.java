@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         String abc = " Hello ";
+        String b  = "ABC";
 
     }
 

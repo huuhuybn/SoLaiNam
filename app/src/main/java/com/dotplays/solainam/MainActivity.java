@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         tinTucs = new ArrayList<>();
 
         String abc = " Hello ";
+        String b  = "ABC";
 
     }
 
